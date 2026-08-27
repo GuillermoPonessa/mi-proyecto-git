@@ -22,3 +22,4 @@
 
 - Realizar el primer commit del repositorio. En ese momento, el archivo `README.MD` solo contenía el título **Mi primer proyecto en git**.
 ## Nueva seccion de ejemplo
+algo nuevo, esto tendira que borrarse para recuperar el readme original
